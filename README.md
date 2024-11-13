@@ -3,7 +3,9 @@
 zsteg for windows 
 按照GPT 给的命令编译 
 
-注意windows环境变量中的flie.exe 要用 Ruby/bin 里的 不要用 git/bin 里的
+# 注意
+1. windows环境变量中的flie.exe 要用 Ruby/bin 里的 不要用 git/bin 里的
+2. 图片要绝对路径如 `.\zsteg.exe -a E:\1ceshi\zsteg\lsb.png`
 ![图片](https://github.com/user-attachments/assets/76fa52b6-3bdb-44bc-8e03-f367a7dd9cab)
 
 # 请我喝菠萝甜心橙
