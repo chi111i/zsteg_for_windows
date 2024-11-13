@@ -1,6 +1,6 @@
 # zsteg_for_windows
 
-zsteg for windows v1.0 
+zsteg for windows 
 按照GPT 给的命令编译 
 
 注意windows环境变量中的flie.exe 要用 Ruby/bin 里的 不要用 git/bin 里的
